@@ -1,10 +1,8 @@
 ### 이상원 Sangwon Lee 
-<br/>
 <div> <a href="https://www.notion.so/portfolio-caacf43f888e4b22bb7c20e786a88aee"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
 <div> :e-mail: : serendipity0805@naver.com </div>
 <br/>
-<br/>
-
+  
 * 💻 아직 배울게 많은 신입 웹 개발자입니다.
 * 🎨 항상 긍정적으로 소통하려고 노력합니다.
 * :sparkles: 사람들의 삶에 도움을 줄 수 있는 서비스를 만드는 개발자가 되는 것이 저의 목표입니다.
