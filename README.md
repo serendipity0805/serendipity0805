@@ -1,8 +1,7 @@
 ### 이상원 Sangwon Lee 
 <br/>
+<div> <a href="https://www.notion.so/portfolio-caacf43f888e4b22bb7c20e786a88aee"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
 <div> :e-mail: : serendipity0805@naver.com </div>
-<div> 포트폴리오 : <a href="https://www.notion.so/portfolio-caacf43f888e4b22bb7c20e786a88aee"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
-</a>
 <br/>
 <br/>
 
